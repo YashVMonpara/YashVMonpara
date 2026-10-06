@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="484" viewBox="0 0 800 484" role="img" aria-labelledby="title desc">
+<title id="title">Yash Monpara — core technical stack</title>
+<desc id="desc">Mobile engineering, LLMs and AI agents, machine learning and databases, APIs and software delivery.</desc>
+<rect x="1" y="1" width="798" height="482" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<path d="M13 1H787Q799 1 799 13V48H1V13Q1 1 13 1" fill="#161b22"/>
+<path d="M1 48H799" stroke="#30363d"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+<text x="24" y="31" font-size="15" fill="#8b949e">~/engineering/core-stack.config</text>
+<text x="776" y="31" text-anchor="end" font-size="12" fill="#3fb950">MOBILE + AI</text>
+<text x="24" y="84" font-size="13" fill="#484f58">[01]</text>
+<text x="24" y="113" font-size="15" font-weight="600" fill="#79c0ff">MOBILE</text>
+<path d="M162 74V144" stroke="#30363d"/>
+<text x="186" y="87" font-size="20" font-weight="600" fill="#79c0ff">Flutter · Dart · BLoC · Riverpod</text>
+<text x="186" y="115" font-size="16" fill="#c9d1d9">Offline-first · platform channels</text>
+<text x="186" y="141" font-size="16" fill="#8b949e">Android / iOS · deep links · push notifications</text>
+<path d="M24 161H776" stroke="#21262d"/>
+<text x="24" y="188" font-size="13" fill="#484f58">[02]</text>
+<text x="24" y="217" font-size="15" font-weight="600" fill="#d2a8ff">LLMs / AI</text>
+<path d="M162 178V248" stroke="#30363d"/>
+<text x="186" y="191" font-size="20" font-weight="600" fill="#d2a8ff">LLMs · RAG · LangChain · LangGraph</text>
+<text x="186" y="219" font-size="16" fill="#c9d1d9">AI agents · workflow orchestration</text>
+<text x="186" y="245" font-size="16" fill="#8b949e">NLP · task-specific fine-tuning</text>
+<path d="M24 265H776" stroke="#21262d"/>
+<text x="24" y="292" font-size="13" fill="#484f58">[03]</text>
+<text x="24" y="321" font-size="15" font-weight="600" fill="#3fb950">ML / DATA</text>
+<path d="M162 282V352" stroke="#30363d"/>
+<text x="186" y="295" font-size="20" font-weight="600" fill="#3fb950">Python · PyTorch · TensorFlow · SQL</text>
+<text x="186" y="323" font-size="16" fill="#c9d1d9">Databases · data integration</text>
+<text x="186" y="349" font-size="16" fill="#8b949e">ARIMA / ARIMAX time-series forecasting</text>
+<path d="M24 369H776" stroke="#21262d"/>
+<text x="24" y="396" font-size="13" fill="#484f58">[04]</text>
+<text x="24" y="425" font-size="15" font-weight="600" fill="#e3b341">DELIVERY</text>
+<path d="M162 386V456" stroke="#30363d"/>
+<text x="186" y="399" font-size="20" font-weight="600" fill="#e3b341">Firebase · REST · GraphQL · WebSockets</text>
+<text x="186" y="427" font-size="16" fill="#c9d1d9">GitHub Actions · CI/CD · Git</text>
+<text x="186" y="453" font-size="16" fill="#8b949e">Unit / widget / integration tests · app stores</text>
+</g></svg>

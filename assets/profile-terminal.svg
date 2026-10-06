@@ -32,23 +32,23 @@
 <text x="382" y="168" font-size="15" fill="#484f58">──────────────────────────────────────────────────</text>
 <text x="382" y="199" font-size="15" font-weight="600" fill="#e3b341">Name:</text>
 <text x="502" y="199" font-size="15" fill="#c9d1d9">Yash Monpara</text>
-<text x="382" y="226" font-size="15" font-weight="600" fill="#e3b341">Building:</text>
-<text x="502" y="226" font-size="15" fill="#c9d1d9">Production Flutter / Dart apps since 2021</text>
+<text x="382" y="226" font-size="15" font-weight="600" fill="#e3b341">Experience:</text>
+<text x="502" y="226" font-size="15" fill="#c9d1d9">4.5 years building Flutter apps</text>
 <text x="382" y="253" font-size="15" font-weight="600" fill="#e3b341">Focus:</text>
-<text x="502" y="253" font-size="15" fill="#c9d1d9">Flutter · AI/ML · agent workflows</text>
+<text x="502" y="253" font-size="15" fill="#c9d1d9">Flutter · LLMs · AI agents · RAG</text>
 <text x="382" y="280" font-size="15" font-weight="600" fill="#e3b341">Platforms:</text>
 <text x="502" y="280" font-size="15" fill="#c9d1d9">Android · iOS</text>
 <text x="382" y="307" font-size="15" font-weight="600" fill="#e3b341">Shipped:</text>
-<text x="502" y="307" font-size="15" fill="#c9d1d9">10+ app features</text>
+<text x="502" y="307" font-size="15" fill="#c9d1d9">10+ applications</text>
 <text x="382" y="347" font-size="14" font-weight="600" fill="#8b949e">STACK</text>
 <text x="382" y="377" font-size="15" font-weight="600" fill="#e3b341">Languages:</text>
 <text x="502" y="377" font-size="15" fill="#c9d1d9">Python, Dart, Kotlin, Java, JavaScript</text>
 <text x="382" y="404" font-size="15" font-weight="600" fill="#e3b341">Mobile:</text>
 <text x="502" y="404" font-size="15" fill="#c9d1d9">Flutter, Firebase, BLoC / Riverpod</text>
 <text x="382" y="431" font-size="15" font-weight="600" fill="#e3b341">AI / ML:</text>
-<text x="502" y="431" font-size="15" fill="#c9d1d9">LangChain, LangGraph, PyTorch, TensorFlow</text>
+<text x="502" y="431" font-size="15" fill="#c9d1d9">LLMs, RAG, LangChain, LangGraph</text>
 <text x="382" y="458" font-size="15" font-weight="600" fill="#e3b341">Data:</text>
-<text x="502" y="458" font-size="15" fill="#c9d1d9">SQL, Power BI, ARIMA / ARIMAX</text>
+<text x="502" y="458" font-size="15" fill="#c9d1d9">SQL, databases, PyTorch, TensorFlow</text>
 <text x="382" y="498" font-size="14" font-weight="600" fill="#8b949e">ENGINEERING</text>
 <text x="382" y="528" font-size="15" font-weight="600" fill="#e3b341">Testing:</text>
 <text x="502" y="528" font-size="15" fill="#c9d1d9">Unit, widget, integration tests</text>
