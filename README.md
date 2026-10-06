@@ -8,20 +8,18 @@
 ## Technical skills
 
 <p align="center">
-  <img src="assets/technical-stack.svg" alt="Technical stack: Flutter, Dart, BLoC and Riverpod; LLMs, AI agents, RAG, LangChain and LangGraph; Python, PyTorch, TensorFlow and SQL; Firebase, REST, GraphQL, WebSockets and GitHub Actions. Offline-first architecture, platform channels, NLP, fine-tuning, database integration, CI/CD and Flutter testing." width="100%" />
+  <img src="assets/technical-stack.svg" alt="Core technical concepts: app architecture, state management, offline-first design and caching; agent orchestration, RAG, retrieval grounding, structured outputs and fine-tuning; feature engineering, forecasting, NLP and sentiment modeling; CI/CD, automated testing, static analysis, API integration and releases." width="100%" />
 </p>
 
 <details>
-<summary>View the full technical stack</summary>
+<summary>Core concepts & toolchain</summary>
 
-| Area | Technologies & practices |
+| Area | Core concepts & toolchain |
 | :--- | :--- |
-| Mobile engineering | `Flutter` · `Dart` · `BLoC` · `Riverpod` · `Provider` · offline-first architecture · platform channels · Android / iOS |
-| LLMs & agents | `LangChain` · `LangGraph` · `RAG` · LLM workflows · AI agents · NLP · task-specific fine-tuning |
-| Machine learning & data | `Python` · `PyTorch` · `TensorFlow` · `SQL` · databases · `ARIMA / ARIMAX` |
-| Backend & APIs | `Firebase` · `REST` · `GraphQL` · `WebSockets` · Django / Flask (non-production work) |
-| Testing & delivery | `GitHub Actions` · `Git` · CI/CD · unit / widget / integration tests · Play Store / App Store |
-| Additional languages & frontend | `Kotlin` · `Java` · `JavaScript` · `React` |
+| Mobile engineering | App architecture · reactive state management · offline-first data · caching · native platform interoperability. **Tools:** `Flutter` · `Dart` · `BLoC` · `Riverpod` · `Provider`. |
+| LLMs & agents | Agent orchestration · retrieval-augmented generation (RAG) · retrieval grounding · structured LLM outputs · task-specific fine-tuning. **Tools:** `LangChain` · `LangGraph`. |
+| Machine learning & data | Feature engineering · time-series modeling · exogenous variables · NLP / sentiment analysis · SQL / database integration. **Tools:** `Python` · `PyTorch` · `TensorFlow` · `ARIMA / ARIMAX` · `SQL`. |
+| Delivery & systems | CI/CD automation · unit / widget / integration testing · AST-based static analysis · API integration · OAuth / PKCE · stream processing · version control · application releases. **Tools:** `GitHub Actions` · `Git` · `tree-sitter` · `Firebase` · `REST / GraphQL` · `WebSockets`. |
 
 </details>
 
