@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="660" viewBox="0 0 1100 660" role="img" aria-labelledby="title desc">
+<title id="title">Yash Monpara — terminal profile</title>
+<desc id="desc">ASCII Y and M monogram beside Yash's mobile engineering background, AI and machine learning projects, skills, testing, and delivery experience.</desc>
+<rect x="1" y="1" width="1098" height="658" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<path d="M15 1H1085Q1099 1 1099 15V52H1V15Q1 1 15 1" fill="#161b22"/>
+<path d="M1 52H1099" stroke="#30363d"/>
+<circle cx="25" cy="27" r="6" fill="#ff7b72"/><circle cx="47" cy="27" r="6" fill="#e3b341"/><circle cx="69" cy="27" r="6" fill="#3fb950"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+<text x="97" y="32" font-size="13" fill="#8b949e">yash@github: ~ / README.md</text>
+<text x="1048" y="32" text-anchor="end" font-size="13" fill="#8b949e">profile</text>
+<text x="36" y="94" font-size="15"><tspan fill="#3fb950">➜ </tspan><tspan fill="#79c0ff">~ </tspan><tspan fill="#c9d1d9">neofetch yash</tspan></text>
+<text x="75" y="153" xml:space="preserve" font-size="19" font-weight="600" fill="#79c0ff">YY       YY</text>
+<text x="75" y="175" xml:space="preserve" font-size="19" font-weight="600" fill="#79c0ff"> YY     YY </text>
+<text x="75" y="197" xml:space="preserve" font-size="19" font-weight="600" fill="#79c0ff">  YY   YY  </text>
+<text x="75" y="219" xml:space="preserve" font-size="19" font-weight="600" fill="#79c0ff">   YYYYY   </text>
+<text x="75" y="241" xml:space="preserve" font-size="19" font-weight="600" fill="#79c0ff">    YYY    </text>
+<text x="75" y="263" xml:space="preserve" font-size="19" font-weight="600" fill="#79c0ff">    YYY    </text>
+<text x="75" y="285" xml:space="preserve" font-size="19" font-weight="600" fill="#79c0ff">    YYY    </text>
+<text x="75" y="307" xml:space="preserve" font-size="19" font-weight="600" fill="#79c0ff"></text>
+<text x="75" y="329" xml:space="preserve" font-size="19" font-weight="600" fill="#a5d6ff">MM         MM</text>
+<text x="75" y="351" xml:space="preserve" font-size="19" font-weight="600" fill="#a5d6ff">MMM       MMM</text>
+<text x="75" y="373" xml:space="preserve" font-size="19" font-weight="600" fill="#a5d6ff">MMMM     MMMM</text>
+<text x="75" y="395" xml:space="preserve" font-size="19" font-weight="600" fill="#a5d6ff">MM MM   MM MM</text>
+<text x="75" y="417" xml:space="preserve" font-size="19" font-weight="600" fill="#a5d6ff">MM  MM MM  MM</text>
+<text x="75" y="439" xml:space="preserve" font-size="19" font-weight="600" fill="#a5d6ff">MM   MMM   MM</text>
+<text x="75" y="461" xml:space="preserve" font-size="19" font-weight="600" fill="#a5d6ff">MM    M    MM</text>
+<text x="75" y="483" xml:space="preserve" font-size="19" font-weight="600" fill="#a5d6ff">MM         MM</text>
+<text x="75" y="550" font-size="13" fill="#8b949e">MOBILE / MACHINE LEARNING</text>
+<text x="75" y="574" font-size="13" fill="#8b949e">BUILD. LEARN. ITERATE.</text>
+<path d="M347 126V594" stroke="#21262d"/>
+<text x="382" y="144" font-size="20" font-weight="600" fill="#79c0ff">YashVMonpara@github</text>
+<text x="382" y="168" font-size="15" fill="#484f58">──────────────────────────────────────────────────</text>
+<text x="382" y="199" font-size="15" font-weight="600" fill="#e3b341">Name:</text>
+<text x="502" y="199" font-size="15" fill="#c9d1d9">Yash Monpara</text>
+<text x="382" y="226" font-size="15" font-weight="600" fill="#e3b341">Building:</text>
+<text x="502" y="226" font-size="15" fill="#c9d1d9">Production Flutter / Dart apps since 2021</text>
+<text x="382" y="253" font-size="15" font-weight="600" fill="#e3b341">Focus:</text>
+<text x="502" y="253" font-size="15" fill="#c9d1d9">Flutter · AI/ML · agent workflows</text>
+<text x="382" y="280" font-size="15" font-weight="600" fill="#e3b341">Platforms:</text>
+<text x="502" y="280" font-size="15" fill="#c9d1d9">Android · iOS</text>
+<text x="382" y="307" font-size="15" font-weight="600" fill="#e3b341">Shipped:</text>
+<text x="502" y="307" font-size="15" fill="#c9d1d9">10+ app features</text>
+<text x="382" y="347" font-size="14" font-weight="600" fill="#8b949e">STACK</text>
+<text x="382" y="377" font-size="15" font-weight="600" fill="#e3b341">Languages:</text>
+<text x="502" y="377" font-size="15" fill="#c9d1d9">Python, Dart, Kotlin, Java, JavaScript</text>
+<text x="382" y="404" font-size="15" font-weight="600" fill="#e3b341">Mobile:</text>
+<text x="502" y="404" font-size="15" fill="#c9d1d9">Flutter, Firebase, BLoC / Riverpod</text>
+<text x="382" y="431" font-size="15" font-weight="600" fill="#e3b341">AI / ML:</text>
+<text x="502" y="431" font-size="15" fill="#c9d1d9">LangChain, LangGraph, PyTorch, TensorFlow</text>
+<text x="382" y="458" font-size="15" font-weight="600" fill="#e3b341">Data:</text>
+<text x="502" y="458" font-size="15" fill="#c9d1d9">SQL, Power BI, ARIMA / ARIMAX</text>
+<text x="382" y="498" font-size="14" font-weight="600" fill="#8b949e">ENGINEERING</text>
+<text x="382" y="528" font-size="15" font-weight="600" fill="#e3b341">Testing:</text>
+<text x="502" y="528" font-size="15" fill="#c9d1d9">Unit, widget, integration tests</text>
+<text x="382" y="555" font-size="15" font-weight="600" fill="#e3b341">Delivery:</text>
+<text x="502" y="555" font-size="15" fill="#c9d1d9">GitHub Actions · Play Store · App Store</text>
+<text x="382" y="582" font-size="15" font-weight="600" fill="#e3b341">Interfaces:</text>
+<text x="502" y="582" font-size="15" fill="#c9d1d9">REST · GraphQL · WebSockets</text>
+<rect x="382" y="612" width="38" height="14" fill="#ff7b72"/>
+<rect x="420" y="612" width="38" height="14" fill="#e3b341"/>
+<rect x="458" y="612" width="38" height="14" fill="#3fb950"/>
+<rect x="496" y="612" width="38" height="14" fill="#79c0ff"/>
+<rect x="534" y="612" width="38" height="14" fill="#d2a8ff"/>
+<rect x="572" y="612" width="38" height="14" fill="#a5d6ff"/>
+<rect x="610" y="612" width="38" height="14" fill="#c9d1d9"/>
+<rect x="648" y="612" width="38" height="14" fill="#484f58"/>
+</g></svg>
