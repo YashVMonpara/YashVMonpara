@@ -1,39 +1,18 @@
 <p align="center">
-  <img src="assets/profile-terminal.svg" alt="Yash Monpara — 4.5 years building Flutter apps, 10+ applications shipped, AI agents and LLM workflows. Technical stack: Flutter, Python, LangChain, LangGraph, PyTorch, TensorFlow, Firebase and GitHub Actions." width="100%" />
+  <img src="assets/hero.svg" alt="Yash Monpara — 3.5+ years as a Flutter engineer, 10+ cross-platform apps shipped. Focus: Flutter, LLM agents, and APIs. Work in logistics, e-commerce, and finance." width="100%" />
 </p>
 
-**4.5 years building Flutter apps · 10+ applications shipped.**  
-**LLMs · AI agents · RAG · APIs · databases.**
-
-## Technical skills
+Software across mobile apps, APIs, and LLM-backed workflows.
 
 <p align="center">
-  <img src="assets/technical-stack.svg" alt="Core technical concepts: app architecture, state management, offline-first design and caching; agent orchestration, RAG, retrieval grounding, structured outputs and fine-tuning; feature engineering, forecasting, NLP and sentiment modeling; CI/CD, automated testing, static analysis, API integration and releases." width="100%" />
+  <img src="assets/stack.svg" alt="Tech stack. Languages: Python, SQL, Bash, Java, C, C++, Swift, JavaScript, TypeScript. Mobile: Flutter, Dart, Kotlin, BLoC. Web and API: React, Node.js, FastAPI. Data: PostgreSQL, SQLite, MongoDB. Tools: Docker, GitHub Actions, AWS, Git, GitHub, Bitbucket, Jira, pytest. Agents: LangGraph, LangChain, Deep Agents, local LLMs, hybrid RAG, context engineering, agentic workflows." width="100%" />
 </p>
 
-<details>
-<summary>Core concepts & toolchain</summary>
-
-| Area | Core concepts & toolchain |
-| :--- | :--- |
-| Mobile engineering | App architecture · reactive state management · offline-first data · caching · native platform interoperability. **Tools:** `Flutter` · `Dart` · `BLoC` · `Riverpod` · `Provider`. |
-| LLMs & agents | Agent orchestration · retrieval-augmented generation (RAG) · retrieval grounding · structured LLM outputs · task-specific fine-tuning. **Tools:** `LangChain` · `LangGraph`. |
-| Machine learning & data | Feature engineering · time-series modeling · exogenous variables · NLP / sentiment analysis · SQL / database integration. **Tools:** `Python` · `PyTorch` · `TensorFlow` · `ARIMA / ARIMAX` · `SQL`. |
-| Delivery & systems | CI/CD automation · unit / widget / integration testing · AST-based static analysis · API integration · OAuth / PKCE · stream processing · version control · application releases. **Tools:** `GitHub Actions` · `Git` · `tree-sitter` · `Firebase` · `REST / GraphQL` · `WebSockets`. |
-
-</details>
-
-## Featured repositories
-
-### [frontier-connector](https://github.com/YashVMonpara/frontier-connector)
-
-Local AI workspace connecting Claude and OpenAI ChatGPT through DeepSeek Harness, with streaming chat, independent OAuth connections, and a Claude CLI.  
-**Stack:** TypeScript · Node.js · OAuth / PKCE · SSE · DeepSeek Harness.
-
-### [PR-risk-checker](https://github.com/YashVMonpara/PR-risk-checker)
-
-PR review tool combining tree-sitter AST analysis, **5 deterministic rules**, and optional LLM triage. Runs as a GitHub Action or a local web app.  
-**Stack:** TypeScript · Node.js · tree-sitter · GitHub Actions · OpenAI / LM Studio.
-
-
-[Browse all repositories →](https://github.com/YashVMonpara?tab=repositories)
+<p align="center">
+  <img src="assets/projects-header.svg" alt="Selected work" width="100%" />
+  <img src="assets/project-task-planner.svg" alt="Humanoid LLM Task Planner: turns plain-English commands into sandboxed Python skills and runs them on a simulated Unitree G1." width="100%" />
+  <img src="assets/project-listing-studio.svg" alt="Listing Studio: a Node.js server and Python agent runtime that turns one product mockup into a listing image pack." width="100%" />
+  <img src="assets/project-reconcile-desk.svg" alt="Reconcile Desk: matches bank-statement PDFs, CSV or Excel ledgers, and payslips by rule, and sends open cases to review." width="100%" />
+  <a href="https://github.com/YashVMonpara/frontier-connector"><img src="assets/project-frontier-connector.svg" alt="frontier-connector (public repository): a local workspace for Claude and ChatGPT, with streaming chat, independent OAuth, and a Claude CLI." width="100%" /></a>
+  <a href="https://github.com/YashVMonpara/PR-risk-checker"><img src="assets/project-pr-risk-checker.svg" alt="PR-risk-checker (public repository): reviews PR diffs with tree-sitter analysis, deterministic rules, and optional LLM triage." width="100%" /></a>
+</p>
