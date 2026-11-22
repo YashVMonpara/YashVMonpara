@@ -14,5 +14,4 @@ Software across mobile apps, APIs, and LLM-backed workflows.
   <img src="assets/project-listing-studio.svg" alt="Listing Studio: a Node.js server and Python agent runtime that turns one product mockup into a listing image pack." width="100%" />
   <img src="assets/project-reconcile-desk.svg" alt="Reconcile Desk: matches bank-statement PDFs, CSV or Excel ledgers, and payslips by rule, and sends open cases to review." width="100%" />
   <a href="https://github.com/YashVMonpara/frontier-connector"><img src="assets/project-frontier-connector.svg" alt="frontier-connector (public repository): a local workspace for Claude and ChatGPT, with streaming chat, independent OAuth, and a Claude CLI." width="100%" /></a>
-  <a href="https://github.com/YashVMonpara/PR-risk-checker"><img src="assets/project-pr-risk-checker.svg" alt="PR-risk-checker (public repository): reviews PR diffs with tree-sitter analysis, deterministic rules, and optional LLM triage." width="100%" /></a>
 </p>
